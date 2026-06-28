@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0018499,1,0.9814,Senior Machine Learning Engineer | 7.2y experience | 8 core AI skills; 6 supporting skills | open=100% active=100% resp=61% notice=15d
+CAND_0027691,2,0.9781,NLP Engineer | 6.5y experience | 4 core AI skills; 9 supporting skills | open=100% active=100% resp=68% notice=15d
+CAND_0081846,3,0.9698,Lead AI Engineer | 6.7y experience | 8 core AI skills; 7 supporting skills | open=100% active=100% resp=73% notice=30d
+CAND_0077337,4,0.9666,Staff Machine Learning Engineer | 7.0y experience | 7 core AI skills; 6 supporting skills | open=100% active=100% resp=95% notice=60d
+CAND_0002025,5,0.9656,Senior AI Engineer | 5.9y experience | 4 core AI skills; 11 supporting skills | open=100% active=100% resp=80% notice=30d
+CAND_0079387,6,0.9649,AI Engineer | 6.9y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=81% notice=30d
+CAND_0086022,7,0.9645,Senior Applied Scientist | 5.3y experience | 4 core AI skills; 11 supporting skills | open=100% active=100% resp=55% notice=0d
+CAND_0091909,8,0.9608,Machine Learning Engineer | 6.9y experience | 4 core AI skills; 8 supporting skills | open=100% active=100% resp=65% notice=45d
+CAND_0046064,9,0.9601,Senior NLP Engineer | 8.9y experience | 5 core AI skills; 6 supporting skills | open=100% active=100% resp=78% notice=30d
+CAND_0037566,10,0.9559,Machine Learning Engineer | 6.9y experience | 3 core AI skills; 8 supporting skills | open=100% active=100% resp=50% notice=15d
+CAND_0075574,11,0.9555,Machine Learning Engineer | 5.7y experience | 6 core AI skills; 7 supporting skills | open=100% active=100% resp=58% notice=60d
+CAND_0064326,12,0.9551,Search Engineer | 7.6y experience | 5 core AI skills; 6 supporting skills | open=100% active=100% resp=94% notice=45d
+CAND_0052682,13,0.9549,NLP Engineer | 6.6y experience | 3 core AI skills; 6 supporting skills | open=100% active=100% resp=88% notice=30d
+CAND_0081053,14,0.9548,NLP Engineer | 5.4y experience | 5 core AI skills; 6 supporting skills | open=100% active=100% resp=83% notice=90d
+CAND_0050454,15,0.9547,AI Engineer | 6.8y experience | 3 core AI skills; 10 supporting skills | open=100% active=100% resp=77% notice=30d
+CAND_0015578,16,0.9546,AI Engineer | 5.4y experience | 5 core AI skills; 7 supporting skills | open=100% active=100% resp=65% notice=90d
+CAND_0005649,17,0.9530,Senior Data Scientist | 7.4y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=57% notice=90d
+CAND_0029367,18,0.9516,Senior Data Scientist | 5.7y experience | 4 core AI skills; 9 supporting skills | open=100% active=100% resp=77% notice=90d
+CAND_0008239,19,0.9491,AI Engineer | 4.0y experience | 6 core AI skills; 7 supporting skills | open=100% active=100% resp=73% notice=15d
+CAND_0011687,20,0.9486,Senior NLP Engineer | 7.8y experience | 5 core AI skills; 6 supporting skills | open=100% active=100% resp=89% notice=15d
+CAND_0062247,21,0.9476,AI Engineer | 7.3y experience | 7 core AI skills; 5 supporting skills | open=100% active=100% resp=78% notice=30d
+CAND_0042506,22,0.9475,Search Engineer | 4.2y experience | 5 core AI skills; 8 supporting skills | open=100% active=100% resp=48% notice=15d
+CAND_0088025,23,0.9464,Staff Machine Learning Engineer | 8.6y experience | 5 core AI skills; 8 supporting skills | open=100% active=100% resp=83% notice=90d
+CAND_0010685,24,0.9463,NLP Engineer | 6.7y experience | 3 core AI skills; 6 supporting skills | open=100% active=100% resp=83% notice=30d
+CAND_0096142,25,0.9452,Applied ML Engineer | 5.0y experience | 4 core AI skills; 5 supporting skills | open=100% active=100% resp=84% notice=120d
+CAND_0045250,26,0.9449,Applied ML Engineer | 6.6y experience | 5 core AI skills; 10 supporting skills | open=30% active=100% resp=74% notice=15d
+CAND_0076163,27,0.9442,NLP Engineer | 6.9y experience | 5 core AI skills; 5 supporting skills | open=100% active=100% resp=84% notice=60d
+CAND_0058688,28,0.9433,AI Engineer | 6.7y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=74% notice=15d
+CAND_0076251,29,0.9431,Search Engineer | 7.6y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=51% notice=60d
+CAND_0066376,30,0.9415,Applied ML Engineer | 5.7y experience | 5 core AI skills; 7 supporting skills | open=100% active=100% resp=51% notice=90d
+CAND_0044222,31,0.9412,AI Engineer | 7.7y experience | 5 core AI skills; 7 supporting skills | open=100% active=100% resp=60% notice=60d
+CAND_0071974,32,0.9411,Senior AI Engineer | 7.8y experience | 9 core AI skills; 5 supporting skills | open=100% active=100% resp=76% notice=45d
+CAND_0080766,33,0.9406,Staff Machine Learning Engineer | 8.8y experience | 4 core AI skills; 7 supporting skills | open=30% active=100% resp=66% notice=0d
+CAND_0068811,34,0.9397,Applied ML Engineer | 8.0y experience | 6 core AI skills; 5 supporting skills | open=100% active=100% resp=42% notice=30d
+CAND_0046525,35,0.9386,Senior Machine Learning Engineer | 6.1y experience | 3 core AI skills; 10 supporting skills | open=100% active=100% resp=88% notice=60d
+CAND_0079064,36,0.9385,Senior Data Scientist | 5.2y experience | 3 core AI skills; 5 supporting skills | open=100% active=100% resp=91% notice=120d
+CAND_0010257,37,0.9375,Senior Data Scientist | 6.5y experience | 3 core AI skills; 6 supporting skills | open=100% active=100% resp=72% notice=120d
+CAND_0039383,38,0.9369,Applied ML Engineer | 7.1y experience | 3 core AI skills; 6 supporting skills | open=100% active=100% resp=61% notice=90d
+CAND_0030031,39,0.9359,AI Engineer | 5.7y experience | 5 core AI skills; 7 supporting skills | open=30% active=100% resp=94% notice=30d
+CAND_0042100,40,0.9359,Machine Learning Engineer | 7.3y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=87% notice=90d
+CAND_0068351,41,0.9352,Lead AI Engineer | 6.4y experience | 3 core AI skills; 7 supporting skills | open=30% active=100% resp=86% notice=0d
+CAND_0008425,42,0.9348,Senior NLP Engineer | 7.8y experience | 4 core AI skills; 9 supporting skills | open=100% active=100% resp=66% notice=90d
+CAND_0005260,43,0.9335,Senior NLP Engineer | 5.2y experience | 4 core AI skills; 7 supporting skills | open=30% active=100% resp=86% notice=60d
+CAND_0070398,44,0.9329,Machine Learning Engineer | 7.2y experience | 6 core AI skills; 6 supporting skills | open=100% active=100% resp=60% notice=120d
+CAND_0083307,45,0.9319,Search Engineer | 7.8y experience | 6 core AI skills; 8 supporting skills | open=100% active=100% resp=70% notice=120d
+CAND_0042029,46,0.9315,Senior Data Scientist | 6.5y experience | 6 core AI skills; 6 supporting skills | open=30% active=100% resp=67% notice=45d
+CAND_0074225,47,0.9301,Machine Learning Engineer | 4.3y experience | 5 core AI skills; 6 supporting skills | open=100% active=100% resp=91% notice=120d
+CAND_0055905,48,0.9286,Senior Machine Learning Engineer | 8.1y experience | 5 core AI skills; 6 supporting skills | open=100% active=100% resp=87% notice=30d
+CAND_0051004,49,0.9283,Senior Data Scientist | 4.7y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=41% notice=15d
+CAND_0051292,50,0.9282,Applied ML Engineer | 5.2y experience | 4 core AI skills; 5 supporting skills | open=100% active=100% resp=52% notice=30d
+CAND_0020877,51,0.9281,Applied ML Engineer | 5.1y experience | 6 core AI skills; 6 supporting skills | open=30% active=100% resp=66% notice=60d
+CAND_0064904,52,0.9279,AI Engineer | 4.9y experience | 5 core AI skills; 5 supporting skills | open=100% active=100% resp=78% notice=90d
+CAND_0049538,53,0.9265,Applied ML Engineer | 5.8y experience | 6 core AI skills; 8 supporting skills | open=30% active=100% resp=72% notice=30d
+CAND_0027801,54,0.9241,NLP Engineer | 7.4y experience | 5 core AI skills; 4 supporting skills | open=100% active=100% resp=65% notice=120d
+CAND_0065195,55,0.9239,Search Engineer | 5.1y experience | 3 core AI skills; 5 supporting skills | open=100% active=100% resp=80% notice=45d
+CAND_0061339,56,0.9237,Search Engineer | 4.2y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=90% notice=90d
+CAND_0007460,57,0.9234,AI Engineer | 4.7y experience | 5 core AI skills; 6 supporting skills | open=100% active=100% resp=48% notice=120d
+CAND_0071939,58,0.9232,Data Scientist | 6.4y experience | 4 core AI skills; 5 supporting skills | open=100% active=100% resp=67% notice=30d
+CAND_0087630,59,0.9229,AI Engineer | 7.2y experience | 5 core AI skills; 6 supporting skills | open=30% active=100% resp=45% notice=30d
+CAND_0037944,60,0.9228,Senior Data Scientist | 4.9y experience | 4 core AI skills; 8 supporting skills | open=100% active=100% resp=42% notice=30d
+CAND_0075249,61,0.9218,Applied ML Engineer | 6.2y experience | 4 core AI skills; 4 supporting skills | open=100% active=100% resp=82% notice=45d
+CAND_0072660,62,0.9207,Machine Learning Engineer | 7.1y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=53% notice=30d
+CAND_0061655,63,0.9204,Machine Learning Engineer | 4.6y experience | 5 core AI skills; 6 supporting skills | open=30% active=100% resp=88% notice=15d
+CAND_0020708,64,0.9192,Search Engineer | 4.2y experience | 3 core AI skills; 9 supporting skills | open=100% active=100% resp=84% notice=30d
+CAND_0007009,65,0.9191,Recommendation Systems Engineer | 7.9y experience | 5 core AI skills; 7 supporting skills | open=100% active=100% resp=62% notice=30d
+CAND_0040178,66,0.9189,ML Engineer | 5.0y experience | 4 core AI skills; 5 supporting skills | open=100% active=100% resp=55% notice=60d
+CAND_0020350,67,0.9186,AI Engineer | 5.8y experience | 3 core AI skills; 6 supporting skills | open=100% active=100% resp=58% notice=30d
+CAND_0000031,68,0.9185,Recommendation Systems Engineer | 6.0y experience | 4 core AI skills; 7 supporting skills | open=100% active=100% resp=91% notice=60d
+CAND_0094759,69,0.9185,Lead AI Engineer | 8.6y experience | 6 core AI skills; 6 supporting skills | open=30% active=100% resp=11% notice=30d
+CAND_0037160,70,0.9180,Data Scientist | 6.0y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=74% notice=30d
+CAND_0084819,71,0.9179,Search Engineer | 4.5y experience | 5 core AI skills; 8 supporting skills | open=100% active=100% resp=74% notice=120d
+CAND_0094056,72,0.9178,NLP Engineer | 5.9y experience | 5 core AI skills; 7 supporting skills | open=30% active=100% resp=82% notice=120d
+CAND_0028793,73,0.9169,Search Engineer | 7.2y experience | 3 core AI skills; 6 supporting skills | open=100% active=100% resp=57% notice=120d
+CAND_0093193,74,0.9167,Senior Machine Learning Engineer | 7.9y experience | 3 core AI skills; 4 supporting skills | open=100% active=100% resp=61% notice=45d
+CAND_0030468,75,0.9166,Senior Applied Scientist | 5.4y experience | 3 core AI skills; 4 supporting skills | open=100% active=100% resp=78% notice=45d
+CAND_0043228,76,0.9161,Applied ML Engineer | 6.8y experience | 4 core AI skills; 6 supporting skills | open=30% active=100% resp=41% notice=30d
+CAND_0009691,77,0.9152,Applied ML Engineer | 6.2y experience | 3 core AI skills; 8 supporting skills | open=100% active=100% resp=64% notice=120d
+CAND_0013393,78,0.9150,ML Engineer | 5.3y experience | 5 core AI skills; 5 supporting skills | open=100% active=100% resp=33% notice=60d
+CAND_0081852,79,0.9135,Senior Data Scientist | 5.9y experience | 4 core AI skills; 3 supporting skills | open=100% active=100% resp=44% notice=45d
+CAND_0052328,80,0.9133,Recommendation Systems Engineer | 6.5y experience | 3 core AI skills; 8 supporting skills | open=100% active=100% resp=79% notice=30d
+CAND_0009024,81,0.9130,Search Engineer | 5.2y experience | 3 core AI skills; 9 supporting skills | open=100% active=100% resp=46% notice=30d
+CAND_0007412,82,0.9129,Applied ML Engineer | 7.4y experience | 4 core AI skills; 3 supporting skills | open=100% active=100% resp=76% notice=120d
+CAND_0044855,83,0.9127,Senior Data Scientist | 6.6y experience | 7 core AI skills; 5 supporting skills | open=30% active=100% resp=57% notice=60d
+CAND_0050876,84,0.9126,Applied ML Engineer | 6.0y experience | 3 core AI skills; 9 supporting skills | open=100% active=100% resp=67% notice=90d
+CAND_0024620,85,0.9123,AI Engineer | 5.9y experience | 4 core AI skills; 5 supporting skills | open=100% active=100% resp=41% notice=45d
+CAND_0064270,86,0.9115,Applied ML Engineer | 4.2y experience | 5 core AI skills; 6 supporting skills | open=30% active=100% resp=82% notice=45d
+CAND_0073982,87,0.9112,Data Scientist | 7.0y experience | 4 core AI skills; 5 supporting skills | open=100% active=100% resp=65% notice=60d
+CAND_0074735,88,0.9102,Applied ML Engineer | 5.5y experience | 7 core AI skills; 3 supporting skills | open=100% active=100% resp=77% notice=90d
+CAND_0010149,89,0.9100,ML Engineer | 6.9y experience | 4 core AI skills; 4 supporting skills | open=100% active=100% resp=82% notice=90d
+CAND_0095528,90,0.9099,Senior Data Scientist | 5.3y experience | 6 core AI skills; 4 supporting skills | open=100% active=100% resp=55% notice=45d
+CAND_0036184,91,0.9090,Recommendation Systems Engineer | 6.0y experience | 5 core AI skills; 6 supporting skills | open=100% active=100% resp=90% notice=30d
+CAND_0078492,92,0.9080,Recommendation Systems Engineer | 5.1y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=70% notice=30d
+CAND_0095619,93,0.9079,NLP Engineer | 15.6y experience | 6 core AI skills; 7 supporting skills | open=100% active=100% resp=90% notice=30d
+CAND_0045475,94,0.9077,ML Engineer | 4.9y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=55% notice=60d
+CAND_0006418,95,0.9072,Machine Learning Engineer | 5.7y experience | 7 core AI skills; 2 supporting skills | open=100% active=100% resp=92% notice=60d
+CAND_0030946,96,0.9054,Junior ML Engineer | 6.7y experience | 5 core AI skills; 5 supporting skills | open=100% active=100% resp=38% notice=60d
+CAND_0054100,97,0.9042,Junior ML Engineer | 6.0y experience | 4 core AI skills; 4 supporting skills | open=100% active=100% resp=79% notice=60d
+CAND_0066035,98,0.9042,Data Scientist | 6.7y experience | 4 core AI skills; 6 supporting skills | open=100% active=100% resp=34% notice=45d
+CAND_0067866,99,0.9041,Senior Software Engineer (ML) | 6.4y experience | 3 core AI skills; 4 supporting skills | open=100% active=100% resp=79% notice=45d
+CAND_0006557,100,0.9038,NLP Engineer | 7.9y experience | 8 core AI skills; 4 supporting skills | open=100% active=100% resp=63% notice=120d

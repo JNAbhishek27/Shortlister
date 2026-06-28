@@ -1,0 +1,55 @@
+team_name: "ai-ranker"
+
+primary_contact:
+  name: "Your Name"
+  email: "your@email.com"
+  phone: "+91-XXXXXXXXXX"
+
+team_members:
+  - name: "Your Name"
+    email: "your@email.com"
+    role: "Full Stack AI Engineer"
+
+github_repo: "https://github.com/YOUR_USERNAME/redrob-ranker"
+
+sandbox_link: "https://your-app.vercel.app"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv --xlsx ./ranked_output.xlsx"
+
+compute:
+  platform: "Local CPU"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.11"
+  os: "Linux"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+ai_tools_used:
+  - "Claude"
+
+ai_usage_summary: |
+  Used Claude for architecture discussion and code review.
+  No candidate data was fed to any LLM.
+  All ranking logic is algorithmic — no LLM inference at ranking time.
+
+methodology_summary: |
+  Multi-signal algorithmic ranker with explicit anti-trap mechanisms.
+  Five scoring components: (1) Title & Career History [35%] — title is
+  ground truth against keyword stuffers; (2) Skill Quality Score [25%] —
+  proficiency × endorsements × duration weighted per JD skill tiers;
+  (3) Behavioral Signals [20%] — open-to-work, recency, recruiter response
+  rate, notice period, GitHub activity; (4) Experience Fit [15%] — ideal
+  5-9 years; (5) Location Fit [5%] — India/Pune/Noida preferred.
+  Honeypot detection penalizes irrelevant-title candidates with many AI
+  keywords. Pure services company careers get a 30% title penalty.
+  Runtime: ~45 seconds for 100K candidates on CPU, stdlib only + openpyxl.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true
