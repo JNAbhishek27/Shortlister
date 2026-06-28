@@ -15,7 +15,7 @@ A multi-signal algorithmic ranking engine that scores and ranks 100,000 candidat
 ├── candidates_compact.json.gz    ← 100K candidate index (5 MB)
 └── vercel.json
 
-submission/                       ← Hackathon deliverables
+submission/                       ← deliverables
 ├── submission.csv                ← Top 100 ranked candidates ✅
 ├── ranked_output.xlsx            ← Enriched XLSX with scores ✅
 ├── rank.py                       ← Python ranking script
