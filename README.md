@@ -21,7 +21,6 @@ submission/                       ← deliverables
 ├── rank.py                       ← Python ranking script
 ├── precompute_compact.py         ← Candidate index generator
 ├── requirements.txt
-├── PPT_ANSWERS.md                ← Methodology Q&A
 └── validate_submission.py        ← Official validator (unchanged)
 ```
 
