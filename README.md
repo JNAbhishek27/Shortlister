@@ -1,6 +1,6 @@
-# Redrob AI Ranker — Intelligent Candidate Discovery
+# Intelligent Candidate Discovery
 
-**Track 01 Submission: Redrob Hackathon — Intelligent Candidate Discovery & Ranking**
+**Intelligent Candidate Discovery & Ranking**
 
 A multi-signal algorithmic ranking engine that scores and ranks 100,000 candidate profiles against any Job Description — with a live browser UI for dynamic re-ranking.
 
